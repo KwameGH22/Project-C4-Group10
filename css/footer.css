@@ -1,0 +1,11 @@
+.footer-container {
+    padding: 50px 100px;
+}
+
+
+.subscribe-form, .email {
+    width: 320px;
+}
+.email {
+    padding-top: 30px;
+}

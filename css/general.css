@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: poppins, sans-serif;
+}
+
+section {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.hero-section, .footer-section {
+    padding: 0;
+}
+
+.footer-section {
+    background-color: #EFEFEF;
+    ;
+}

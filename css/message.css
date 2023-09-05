@@ -1,0 +1,35 @@
+.row-flex {
+    display: flex;
+}
+
+.furniture {
+    background-image: url(/assets/furn.jpg);
+    width: 588px;
+    height: 299px;
+}
+
+.basket {
+    background-image: url(/assets/bask.jpg);
+    width: 588px;
+    height: 299px;
+}
+
+.furniture h3  {
+    padding: 60px 20px 5px;
+    font-size: 20px;
+    line-height: 33px;
+    font-weight: 300;
+    color:black;
+}
+
+.basket h3  {
+    padding: 60px 20px 5px;
+    font-size: 20px;
+    line-height: 33px;
+    font-weight: 300;
+    color:black;
+}
+
+.furniture .basket p {
+    padding: 5px;
+}
